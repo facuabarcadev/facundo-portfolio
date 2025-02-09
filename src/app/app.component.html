@@ -1,1 +1,17 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<div
+  id="scroll-container"
+  appGradientBackground
+  class="gradient-background fixed inset-0 z-30 transition duration-300 lg:absolute"
+>
+  <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
+    <div class="lg:flex lg:justify-between lg:gap-4">
+      <app-header></app-header>
+      <main id="content" class="main-content pt-24 lg:w-1/2 lg:py-24">
+        <app-about></app-about>
+        <app-experience></app-experience>
+        <app-projects></app-projects>
+        <app-footer></app-footer>
+      </main>
+    </div>
+  </div>
+</div>
