@@ -1,0 +1,56 @@
+[
+    {
+      "company": "Massimo Dutti",
+      "role": "Senior Frontend Developer",
+      "website": "https://www.massimodutti.com",
+      "startYear": 2024,
+      "endYear": "Present",
+      "description": "Crafted and styled some seriously cool features for Massimo Dutti's ecommerce site. Teamed up with product and project managers, designers, and other engineers to transform creative ideas into amazing digital experiences.",
+      "technologies": ["JavaScript", "TypeScript", "Angular", "HTML & SCSS", "GitHub"]
+    },
+    {
+      "company": "Ultra",
+      "role": "Senior Frontend Engineer",
+      "website": "https://ultra.io",
+      "startYear": 2023,
+      "endYear": 2024,
+      "description": "Worked with a bunch of cool engineers to build and polish Ultra's NFT marketplace, making sure everything worked smoothly and looked great using Angular, TypeScript, SCSS, and other nifty tools.",
+      "technologies": ["TypeScript", "Angular", "HTML & SCSS", "Electron", "GitLab"]
+    },
+    {
+      "company": "Wabi",
+      "role": "Senior Frontend Developer",
+      "website": "https://www.wabi2b.com/",
+      "startYear": 2022,
+      "endYear": 2023,
+      "description": "Jumped into developing and maintaining a backoffice system and a B2B marketplace for Coca Cola's suppliers and customers, making sure everything ran smoothly using Angular, TypeScript, CSS, and more.",
+      "technologies": ["Angular", "HTML & SCSS", "TypeScript", "AWS"]
+    },
+    {
+      "company": "Massimo Dutti (Inditex)",
+      "role": "Frontend Developer",
+      "website": "https://www.massimodutti.com",
+      "startYear": 2018,
+      "endYear": 2022,
+      "description": "Played a key role in migrating an app from AngularJS to Angular, making sure the transition was smooth and the service kept running without hiccups.",
+      "technologies": ["Angular", "HTML & SCSS", "JavaScript", "AngularJS"]
+    },
+    {
+      "company": "Hospital Privado",
+      "role": "Frontend Developer",
+      "website": "https://hospitalprivado.com.ar/",
+      "startYear": 2016,
+      "endYear": 2018,
+      "description": "Helped build a new system for managing and assigning patient appointments. Developed essential features for booking, changing, and canceling appointments using Angular and TypeScript.",
+      "technologies": ["Angular", ".NET", "TypeScript", "HTML & CSS"]
+    },
+    {
+      "company": "Sooft Technology",
+      "role": "Full Stack Developer",
+      "website": "https://sooft.tech/",
+      "startYear": 2014,
+      "endYear": 2016,
+      "description": "Got involved in creating a new product set for nationwide rollout, using C#, MVC, SQL Server, Apache Cordova, jQuery, HTML, and TFS to make it happen.",
+      "technologies": ["HTML & CSS", "JavaScript", "jQuery", "Cordova", ".NET"]
+    }
+  ]
