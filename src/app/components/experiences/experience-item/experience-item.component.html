@@ -10,13 +10,15 @@
     </header>
     <div class="z-10 sm:col-span-6">
       <h3 class="font-medium leading-snug text-neutral-200">
-        <a
-          [href]="experience.website"
-          target="_blank"
-          class="inline-flex items-baseline font-medium leading-tight text-neutral-200 hover:text-teal-300 focus-visible:text-teal-300 group/link text-base"
-        >
-          {{ experience.role }} · <span class="inline-block">{{ experience.company }}</span>
-        </a>
+        <div>
+          <a
+            [href]="experience.website"
+            target="_blank"
+            class="inline-flex items-baseline font-medium leading-tight text-neutral-200 hover:text-teal-300 focus-visible:text-teal-300 group/link text-base"
+          >
+            <span class="inline-block"> {{ experience.role }} · {{ experience.company }}</span>
+          </a>
+        </div>
       </h3>
       <p class="mt-2 text-sm leading-normal">{{ experience.description }}</p>
       <ul class="mt-2 flex flex-wrap">
